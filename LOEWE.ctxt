@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LOEWE
+comment1.params=alterNeu\ gewichtNeu
+comment1.target=LOEWE(int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ lautGeben()
+numComments=3
